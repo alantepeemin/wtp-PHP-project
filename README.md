@@ -27,11 +27,11 @@ XAMPP'ı [buradan](https://www.apachefriends.org/tr/index.html) indirip bilgisay
 
 ### 4. Veritabanına bağlanma
 config.php dosyasını kendi veritabanınıza göre düzenleyin:
-<?php
+```php
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "personel"; // veritabanı adı 
+$dbname = "personel"; //  veritabanı adı 
 
 // Bağlantı oluşturma
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -40,6 +40,6 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Bağlantı başarısız: " . $conn->connect_error);
 }
-?>
+```
 
 
