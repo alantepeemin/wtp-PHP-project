@@ -42,7 +42,7 @@ if ($conn->connect_error) {
 }
 ```
 
-[Youtube Tanıtım Videosu Linki]([https://www.youtube.com/watch?v=videonunIDsi](https://www.youtube.com/watch?v=GQvDbDIk1pc))
+[Youtube Tanıtım Videosu Linki](https://www.youtube.com/watch?v=GQvDbDIk1pc)
 
 
 
