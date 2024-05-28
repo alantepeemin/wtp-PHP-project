@@ -19,7 +19,7 @@ XAMPP'ı [buradan](https://www.apachefriends.org/tr/index.html) indirip bilgisay
 2. MySQL servisini başlatın.
 3. Tarayıcınızı açın ve http://localhost/phpmyadmin adresine gidin.
 4. Yeni bir veritabanı oluşturun. Örneğin: `personel`.
-5. `personel.sql` dosyasını phpMyAdmin üzerinden oluşturduğunuz veritananında içe aktarın.
+5. `personel.sql` dosyasını phpMyAdmin üzerinden oluşturduğunuz veritabanında içe aktarın.
 
 ### 3. Dosyaları XAMPP'a Kopyalama
 1. Tüm PHP dosyalarını ve diğer gerekli dosyaları indirin.
